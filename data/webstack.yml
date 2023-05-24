@@ -21,27 +21,36 @@
 - taxonomy: 技术学习
   icon: fas fa-flask fa-lg
   list:
-    - term: 工具技术
+    - term: 工具仓库
       links:
         - title: 易科云
           logo: onetechcloud.ico
           url: https://www.onetechcloud.com/aff/FZOMYJDU
-          description: 个人科学上网在用VPS。
-      links:
+          description: 个人科学上网在用VPS，带AFF。
         - title: Alist
           logo: github.jpg
           url: https://github.com/alist-org/alist
           description: 一个支持多存储的文件列表程序。
-      links:
         - title: VaultWarden
           logo: github.jpg
           url: https://github.com/dani-garcia/vaultwarden
-          description: 非官方的、用Rust编写的与Bitwarden兼容的服务器。
-      links:
-        - title: VaultWarden
+          description: 自托管的密码管理服务器，非Bitwaeden官方。
+        - title: json格式化
+          logo: webfollow.png
+          url: https://www.json.cn/
+          description: json格式化。
+        - title: 正则表达式在线测试
+          logo: webfollow.png
+          url: https://tool.chinaz.com/regex/
+          description: 站长工具。
+        - title: ddns-cloudflare
           logo: github.jpg
-          url: https://github.com/dani-garcia/vaultwarden
-          description: 非官方的、用Rust编写的与Bitwarden兼容的服务器。
+          url: https://github.com/r0n9/ddns-cloudflare
+          description: 基于Cloudfare接口实现的动态域名解析服务。
+        - title: 蓝眼云盘
+          logo: github.jpg
+          url: https://github.com/eyebluecn/tank
+          description: 还不错的Go语言实现自建简约云盘。
     - term: 办公学习
       links:
         - title: 谷歌翻译
@@ -64,19 +73,15 @@
           logo: github.jpg
           url: https://github.com/
           description: 线上源码托管网站。
-        - title: json格式化
-          logo: webfollow.png
-          url: https://www.json.cn/
-          description: json格式化。
-        - title: 正则表达式在线测试
-          logo: webfollow.png
-          url: https://tool.chinaz.com/regex/
-          description: 站长工具。
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
     - term: 影音视频
       links:
+        - title: Youtube
+          logo: youtube.png
+          url: https://www.youtube.com/
+          description: 油管。
         - title: 腾讯视频
           logo: 腾讯视频.png
           url: http://v.qq.com/
@@ -256,10 +261,22 @@
 
     - term: 谷歌插件
       links:
-        - title: wappalyzer
-          url: https://www.wappalyzer.com/
-          logo: wappalyzer.png
-          description: Identify technology on websites.
+        - title: SwitchyOmega
+          url: https://github.com/FelisCatus/SwitchyOmega
+          logo: SwitchyOmega.png
+          description: 轻松快捷地管理和切换多个代理设置.
+        - title: 沉浸式翻译
+          url: https://immersive-translate.owenyoung.com/
+          logo: 沉浸式翻译.png
+          description: 沉浸式双语网页翻译扩展.
+        - title: 沉浸式翻译
+          url: https://immersive-translate.owenyoung.com/
+          logo: 沉浸式翻译.png
+          description: 沉浸式双语网页翻译扩展.
+        - title: json-viewer
+          url: https://github.com/tulios/json-viewer/
+          logo: "https://github.com/tulios/json-viewer/blob/master/logo.png"
+          description: Json Viewer.
         - title: Panda
           url: http://usepanda.com/
           logo: usepanda.png
