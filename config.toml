@@ -1,6 +1,6 @@
 baseURL = "https://880508.xyz/"
 languageCode = "zh-CN"
-title = "凑数的导航首页"
+title = "导航来凑数的首页"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
