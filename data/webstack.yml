@@ -21,7 +21,7 @@
 - taxonomy: 技术学习
   icon: fas fa-flask fa-lg
   list:
-   - term: 工具技术
+    - term: 工具技术
       links:
         - title: 易科云
           logo: onetechcloud.ico
