@@ -2,9 +2,6 @@
   icon: fa fa-home
   link: "/"
 
-- item: 作者
-  icon: fa fa-book
-  link: https://weekendproject.online
 - item: 配置
   icon: fa fa-cog
   link: ""
@@ -12,4 +9,4 @@
     - name: 源码
       url: "https://github.com/weekend-project-space/e9x-fun"
     - name: 导航数据
-      url: "https://github.com/weekend-project-space/e9x-fun/blob/main/data/webstack.yml"
+      url: "https://github.com/r0n9/e9x-fun/blob/main/data/webstack.yml"

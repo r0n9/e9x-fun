@@ -18,9 +18,30 @@
       logo: Cloudflare.png
       url: https://cloudflare.com/
       description: 为云而建的全球性网络。
-- taxonomy: 科研办公
+- taxonomy: 技术学习
   icon: fas fa-flask fa-lg
   list:
+   - term: 工具技术
+      links:
+        - title: 易科云
+          logo: onetechcloud.ico
+          url: https://www.onetechcloud.com/aff/FZOMYJDU
+          description: 个人科学上网在用VPS。
+      links:
+        - title: Alist
+          logo: github.jpg
+          url: https://github.com/alist-org/alist
+          description: 一个支持多存储的文件列表程序。
+      links:
+        - title: VaultWarden
+          logo: github.jpg
+          url: https://github.com/dani-garcia/vaultwarden
+          description: 非官方的、用Rust编写的与Bitwarden兼容的服务器。
+      links:
+        - title: VaultWarden
+          logo: github.jpg
+          url: https://github.com/dani-garcia/vaultwarden
+          description: 非官方的、用Rust编写的与Bitwarden兼容的服务器。
     - term: 办公学习
       links:
         - title: 谷歌翻译
@@ -32,11 +53,11 @@
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
         - title: 语雀
-          logo: yinxiang.jpeg
+          logo: 语雀.jpg
           url: https://www.yuque.com/
           description: 团队和企业的在线文档协同平台。
         - title: 腾讯文档
-          logo: yinxiang.jpeg
+          logo: 腾讯文档.png
           url: https://docs.qq.com/
           description: 团队和企业的在线文档协同平台。
         - title: github
