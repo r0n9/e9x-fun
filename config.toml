@@ -10,7 +10,7 @@ publishDir = "public"        # 站点静态文件保存目录
 [params]
 author = "weekend-project"
 description = "e9x"
-upload = "https://github.com/weekend-project-space/e9x-fun/discussions" # 左侧导航栏的"网站提交"
+upload = "/about" # 左侧导航栏的"网站提交"
 about = "/about"                                                        # 左侧导航栏的"关于导航"页面(./about)
 repository = "https://github.com/weekend-project-space/e9x-fun"
 enablePreLoad = true                                                    # 网站完全打开前预加载动画

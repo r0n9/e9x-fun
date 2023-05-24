@@ -269,34 +269,10 @@
           url: https://immersive-translate.owenyoung.com/
           logo: 沉浸式翻译.png
           description: 沉浸式双语网页翻译扩展.
-        - title: 沉浸式翻译
-          url: https://immersive-translate.owenyoung.com/
-          logo: 沉浸式翻译.png
-          description: 沉浸式双语网页翻译扩展.
         - title: json-viewer
           url: https://github.com/tulios/json-viewer/
           logo: "https://github.com/tulios/json-viewer/blob/master/logo.png"
           description: Json Viewer.
-        - title: Panda
-          url: http://usepanda.com/
-          logo: usepanda.png
-          description: A smart news reader built for productivity.
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: sizzy.png
-          description: A tool for developing responsive websites crazy-fast.
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: csspeeper.png
-          description: Smart CSS viewer tailored for Designers.
-        - title: insight
-          url: http://insight.io/
-          logo: insight.png
-          description: IDE-like code search and navigation, on the cloud.
-        - title: mustsee
-          url: http://mustsee.earth/
-          logo: mustsee.png
-          description: Discover the world's most beautiful places at every opened tab.
 
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
