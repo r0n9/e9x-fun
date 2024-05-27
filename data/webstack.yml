@@ -2,14 +2,18 @@
 - taxonomy: 个人常用
   icon: far fa-star
   links:
+    - title: AirClip
+      logo: favicon-96x96.png
+      url: https://fqtz.880508.xyz/board
+      description: 跨设备传输文件的最简便方法。
     - title: Alist
       logo: alist.png
       url: https://alist.880508.xyz
       description: 自建Alist服务。
     - title: ChatGPT
       logo: openai.png
-      url: https://chat.880508.xyz
-      description: 自建ChatGPT套壳。
+      url: https://chatgpt.com/
+      description: 代码靠它写得飞起。
     - title: Youtube
       logo: youtube.png
       url: https://www.youtube.com/
@@ -17,7 +21,7 @@
     - title: V2EX
       logo: v2ex.jpg
       url: https://www.youtube.com/
-      description: V2EX。
+      description: V2。
     - title: CloudFlare
       logo: Cloudflare.png
       url: https://cloudflare.com/
