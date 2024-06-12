@@ -2,9 +2,9 @@
 - taxonomy: 个人常用
   icon: far fa-star
   links:
-    - title: AirClip
+    - title: AirClipboard
       logo: favicon-96x96.png
-      url: https://fqtz.880508.xyz/board
+      url: https://board.880508.xyz/YourName
       description: 跨设备传输文件的最简便方法。
     - title: Alist
       logo: alist.png
